@@ -1,0 +1,49 @@
+# Gear Pen Website Source Code License
+
+Copyright © 2026 Gear Pen. All Rights Reserved.
+
+This website, including but not limited to its HTML, CSS, JavaScript, PHP, images, layouts, user interface, design elements, source code, functionality, and associated files (collectively referred to as the "Source Code"), is the exclusive intellectual property of Gear Pen.
+
+## License Terms
+
+1. Ownership
+
+   * All rights, title, and interest in the Source Code remain exclusively with Gear Pen.
+   * The Source Code is protected under applicable copyright laws and international copyright treaties.
+
+2. Restrictions
+
+   Without prior written permission from Gear Pen, no person or organization may:
+
+   * Copy, reproduce, duplicate, or redistribute any portion of the Source Code.
+   * Modify, reverse engineer, decompile, or create derivative works based on the Source Code.
+   * Use any portion of the Source Code for personal, commercial, or educational purposes.
+   * Publish, upload, share, sell, sublicense, or otherwise distribute the Source Code.
+
+3. Authorized Use
+
+   * The Source Code is licensed solely for use on the official Gear Pen website.
+   * No rights are granted to any third party except as expressly authorized in writing by Gear Pen.
+
+4. Copyright Infringement
+
+   * Any unauthorized copying, distribution, modification, or use of the Source Code shall constitute copyright infringement.
+   * Gear Pen reserves the right to pursue all available civil and criminal remedies under applicable copyright and intellectual property laws, including but not limited to injunctions, damages, legal fees, and other remedies.
+
+5. No Implied License
+
+   * Possession of, access to, or viewing of the Source Code does not grant any ownership rights or permission to use it.
+
+6. Reservation of Rights
+
+   * All rights not expressly granted herein are reserved exclusively by Gear Pen.
+
+---
+
+Copyright Notice
+
+Copyright © 2026 Gear Pen. All Rights Reserved.
+
+Unauthorized copying, reproduction, modification, distribution, or use of this source code, in whole or in part, is strictly prohibited without prior written permission from Gear Pen.
+
+Violation of these terms may result in legal action under applicable copyright and intellectual property laws.
